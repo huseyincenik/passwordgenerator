@@ -1,5 +1,5 @@
 # passwordgenerator
-<img src="https://github.com/huseyincenik/passwordgenerator/blob/main/algorithm.jpg" alt="algoritm" width="320" height="180">
+<img src="https://github.com/huseyincenik/passwordgenerator/blob/main/algorithm.jpg" alt="algoritm" width="100%" height="100%">
 
 Random password generator . 
 
